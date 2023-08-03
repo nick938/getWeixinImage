@@ -1,0 +1,12 @@
+{
+  "name": "getweixinimage",
+  "version": "1.0.0",
+  "description": "获取文件夹下面的所有.dat后缀文件,并且转换为jgp格式保存在本地",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
